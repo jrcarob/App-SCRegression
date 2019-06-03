@@ -1,6 +1,6 @@
 ## Sobre `scregr`
 
-[![GitHub version](https://badge.fury.io/gh/paternogbc%2FSSregression.svg)](http://badge.fury.io/gh/paternogbc%2FSSregression)
+[![GitHub version](https://badge.fury.io/gh/jrcarob%2FApp-SCRegression.svg)](https://badge.fury.io/gh/jrcarob%2FApp-SCRegression)
 
 
 This interactive application allows you to explore how Sums of Squares are calculated in simple linear regressions. Change one of the parameters to see what happens.
