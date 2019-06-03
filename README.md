@@ -33,7 +33,7 @@ Software Open Source y bajo licencia pública [GPL-3.0](http://www.gnu.org/licen
 
 ![logo](https://raw.githubusercontent.com/paternogbc/SSregression/master/www/logo.png) 
 
-_The OSI logo trademark is the trademark of [Open Source Initiative](http://opensource.org/)_
+_El logo OSI es la marca de [Open Source Initiative](http://opensource.org/)_
 
 ## Autor
 José Rafael Caro Barrera | jrcarobarrera@gmail.com | [jrcarob](https://github.com/jrcarob)
