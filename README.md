@@ -25,8 +25,7 @@ To run this application localy, simple paste the following code on `R` console:
  shiny::runGitHub("SSregression", "paternogbc")
 ```
 
-![](http://i.imgur.com/d6i4LGy.png)
-
+![screenshot1](https://user-images.githubusercontent.com/45860181/58814770-a6649680-8626-11e9-8cac-a91c9b13eae6.png)
 
 
 ## Licencia
